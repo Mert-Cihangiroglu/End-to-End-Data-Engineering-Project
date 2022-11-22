@@ -1,5 +1,5 @@
 # End to End Data Engineering Project
- Spark Streaming, Kafka and Cassandra are used.
+ Spark Streaming, Kafka and Cassandra. (In Progress)
 
 
 ## Requirements
